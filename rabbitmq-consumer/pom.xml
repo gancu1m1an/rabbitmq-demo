@@ -15,7 +15,11 @@
     <description>Demo project for Spring Boot</description>
 
     <dependencies>
-
+        <dependency>
+            <groupId>com.lv.rabbitmq</groupId>
+            <artifactId>rabbitmq-common</artifactId>
+            <version>1.0</version>
+        </dependency>
     </dependencies>
 
     <build>
